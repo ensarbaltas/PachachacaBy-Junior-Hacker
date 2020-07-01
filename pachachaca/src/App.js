@@ -9,6 +9,7 @@ import Photos from './Components/Photos/Photos'
 import Newsletters from './Components/Newsletters/Newsletters'
 import Donate from './Components/Donate/Donate'
 
+
 class App extends Component {
     render() {
 
